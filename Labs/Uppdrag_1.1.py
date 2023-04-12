@@ -19,7 +19,7 @@ else:
     money_goal = money_goal + 1000; 
 
     age; 
-
+# Tills man inte kommer över 20000$$
 while money_goal ((money_goal < 20000 && age < 65)):
 
     
