@@ -3,16 +3,16 @@ class Bankaccount:
         
         @property
         def name(self):
-            return self 
+            return self.name
         
         def saldo(self): 
-            return self
+            return self.saldo
         
         def månadssparande(self): 
-            return self
+            return self.månadssparande
 
         def aktier(self): 
-            return self
+            return self.aktier
                 
 
 print(self, name, saldo, månadssparande, aktier):
